@@ -3,63 +3,26 @@
 [![image](https://user-images.githubusercontent.com/70404643/108404936-d1ac7080-7263-11eb-8b05-ffd433356c4b.png)](https://user-images.githubusercontent.com/45934117/94068485-35a04980-fe2a-11ea-8b57-abd9bde30014.png)
 
 
-
-
-
-> ## 🏡Let's PLOVER!🌈 [Link](https://plover.co.kr/login)
-
-
+> ## 🏡Let's PLOVER!🌈
 
 ---
 
 ## ![image](https://user-images.githubusercontent.com/70404643/108386995-863c9700-7250-11eb-9b95-497ab6b9d0ed.png)
 
-
+## 팀원 소개
 
 |   Name   | 윤기현                                                       | 이아영                                                       | 박상우                                                       | 임장순                                                       | 박지영                                                       | 차수연                                                       |
 | :------: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Profile  | ![그림4](https://user-images.githubusercontent.com/70404643/108405582-93fc1780-7264-11eb-9ff2-61d106ef4423.png) | ![unknown](https://user-images.githubusercontent.com/70404643/108406929-687a2c80-7266-11eb-9f26-b52c9b34997e.png) | ![그림3](https://user-images.githubusercontent.com/70404643/108405497-7af36680-7264-11eb-861e-7c9085bbe8f3.png) | ![그림6](https://user-images.githubusercontent.com/70404643/108405549-8b0b4600-7264-11eb-89ef-d3c5155ecf3c.jpg) | ![그림7](https://user-images.githubusercontent.com/70404643/108405530-86469200-7264-11eb-8d44-93b71eb2ca2d.png) | ![그림8](https://user-images.githubusercontent.com/70404643/108405518-821a7480-7264-11eb-9436-f8251aa4f5fe.png) |
-| Position | CI/CD구성 및관리, 서버 개발                                  | 서버 개발                                                    | 팀장 & 서버개발 & 기획                                       | UI/UX 디자인 & 개발                                          | 기획 & UI/UX 디자인 & 개발                                   | UI/UX 디자인 & 개발 & UCC                                    |
+| Position | 백엔드 파트장,CI/CD구성 및관리, 서버 개발                                  | 서버 개발                                                    | 팀장 & 서버개발 & 기획                                       | 프론트파트장 & UI/UX 디자인 & 개발                                          | 기획 & UI/UX 디자인 & 개발                                   | UI/UX 디자인 & 개발 & UCC                                    |
 |   Git    | [@KihyeonYun](https://github.com/KiHyeonYun)                 | [@LeeA0](https://github.com/LeeA0)                           | [@upswp](https://github.com/upswp)                           | [@color0e](https://github.com/color0e) <br />[@rosenari](https://github.com/rosenari) | [@reachgoal321](https://lab.ssafy.com/reachgoal321)          | [@pepprbell](https://github.com/pepprbell)                   |
 | 닉네임🍕  | 핫소스                                                       | 올리브                                                       | 도우                                                         | 먹장수                                                       | 감자                                                         | 피망                                                         |
 
-  
-
-## Team Communication Rule ✨
-
-- 🧷 [PLOVER Business Rules 바로가기](https://lab.ssafy.com/s04-webmobile2-sub3/s04p13b104/wikis/PLOVER-Business-Rules)
-
-
-
-- ##### 팀원간의 소통은 존댓말로! 
-
-  사적인 자리에서는 친분을! 하지만 프로젝트는 우리 모두의 존중을 위해 존댓말로!
-
-  
-
-- ##### 프로젝트 이슈 관리는 스스로!
-
-  팀장과 CTO를 중심으로 프로젝트 이슈를 기획하고 스스로 관리하며 이슈처리를 학습!
-
-  
-
-- ##### 모든 대화는 한곳에서!
-
-  공적인 대화는 front와 back개발자들이 모두 알 수 있도록! 흐름은 모두가 알고가자!
-
-  
-
----
+ 
 
 ## 👨‍👨‍👧 서비스 소개
 
-
-
 ![image](https://user-images.githubusercontent.com/70404643/108383811-77081a00-724d-11eb-8f60-6d4e904a3bd0.png)
-
-
-
-
 
 🤔[열심히 취업준비하는 현역 SSAFY 김싸피]
 
@@ -86,10 +49,6 @@
 ---
 
 ![image](https://user-images.githubusercontent.com/70404643/108387801-4a560180-7251-11eb-8696-f6e2bc338706.png)
-
-
-
-
 
 ##  :computer: 핵심 기능 (시연 영상 Let's get it ~! )
 
