@@ -83,13 +83,13 @@
 
 - ##### Login & SignIn
 
-  ![이미지](./images/login_signin.png)
+  ![이미지](https://rosenari.com/%EC%9E%84%EC%9E%A5%EC%88%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%AA%A8%EC%9D%8C/Plover/rawcode/07cbd4a73b797f0abe44bcf96276a502cf78198d/images/login_signin.png)
 
 
 
 - ##### Home & Menu & Alarm
 
-  ![이미지](./images/home_menu_alarm.png)
+  ![이미지](https://rosenari.com/%EC%9E%84%EC%9E%A5%EC%88%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%AA%A8%EC%9D%8C/Plover/rawcode/07cbd4a73b797f0abe44bcf96276a502cf78198d/images/home_menu_alarm.png)
 
   - **Logout 버튼** : hello, user ID 옆 **탈출구 초록이모티콘**
 
@@ -97,7 +97,7 @@
 
 - ##### Profile & Follow
 
-  ![이미지](./images/profile_follow.png)
+  ![이미지](https://rosenari.com/%EC%9E%84%EC%9E%A5%EC%88%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%AA%A8%EC%9D%8C/Plover/rawcode/07cbd4a73b797f0abe44bcf96276a502cf78198d/images/profile_follow.png)
 
   - **프로필을 예쁘게 꾸며봅시다 😍**
 
@@ -111,7 +111,7 @@
 
 - ##### Chatting
 
-  ![이미지](./images/chatting.png)
+  ![이미지](https://rosenari.com/%EC%9E%84%EC%9E%A5%EC%88%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%AA%A8%EC%9D%8C/Plover/rawcode/07cbd4a73b797f0abe44bcf96276a502cf78198d/images/chatting.png)
 
   - Chatting  : user 프로필 페이지, mentoring, studying 상세페이지에서 1:1 대화 가능
 
@@ -119,13 +119,13 @@
 
 - ##### Mentoring
 
-  ![이미지](./images/mentoring.png)
+  ![이미지](https://rosenari.com/%EC%9E%84%EC%9E%A5%EC%88%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%AA%A8%EC%9D%8C/Plover/rawcode/07cbd4a73b797f0abe44bcf96276a502cf78198d/images/mentoring.png)
 
   
 
 - ##### Studying
 
-  ![이미지](./images/studying.png)
+  ![이미지](https://rosenari.com/%EC%9E%84%EC%9E%A5%EC%88%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%AA%A8%EC%9D%8C/Plover/rawcode/07cbd4a73b797f0abe44bcf96276a502cf78198d/images/studying.png)
 
   
 
